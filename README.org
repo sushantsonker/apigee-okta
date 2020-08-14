@@ -78,7 +78,7 @@
   password for the user that you assigned to the app.
 
   #+BEGIN_SRC sh :noweb yes
-    <<id_token>>
+    <<`./get_id_token.sh -b 'https://mmc-sushantsonker.okta.com' -c <client_id from okta>  -u sushant.sonker@mmc.com -p <password> -o 'https://example.net/your_application' -v`>>
   #+END_SRC
 
   Running the command above should give you and =id_token=, if that
