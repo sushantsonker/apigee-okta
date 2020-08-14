@@ -1,5 +1,6 @@
 # Introduction
 
+Refer to README.org for instructions on setup
 
 This is the official repository for all integrations between Apigee and Okta.
 Apigee's API management does not include any Identity Management services(BaaS or
