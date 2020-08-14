@@ -258,6 +258,7 @@
 	eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJhQkNkRWYwR2hpSmtMTW5vMXBxMiIsInZlciI6MSwiaXNzIjoiaHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1kUXc0dzlXZ1hjUSIsImlhdCI6MTQ2OTE0MjAxOCwiZXhwIjoxNDY5MTQ1NjE4LCJhdXRoX3RpbWUiOjE0NjkxNDIwMTd9.Tim8_SgPoM01lZ8T5PrYgstDRzU3Yk8qmmLyMO9a19I
       #+END_SRC
 
+      
       Once you have a valid =id_token=, use it in the =curl= command
       again to exchange the =id_token= for an Apigee access token:
 
