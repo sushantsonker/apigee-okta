@@ -136,9 +136,11 @@
     9. Leave the defaults for "Expiration Type" and "Expiration".
     10. Click the "Save" button.
 ** Create an "Okta OIDC" Product
+Run the "Create an API Proxy bundle" section before running this step
    1. From the "Publish" menu, select "Products"
    2. Click the "+ Product" button found on the right hand side of
       the screen.
+      
    3. Set the following:
       - Name: Set to: "=Okta OIDC="
       - Display Name: Set to: "=Okta OIDC="
